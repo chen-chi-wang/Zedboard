@@ -1,3 +1,10 @@
+## Content
+
+- [Zedboard Overview](#zedboard-overview)
+- [Lab 1.1 Platform Setup and Development Environment](#lab-11-platform-setup-and-development-environment)
+- [Lab 1.2.1 Bare-metal Design](#lab-121-bare-metal-design)
+- [Lab 1.2.2 Hello World Program on Basic Petalinux](#lab-122-hello-world-program-on-basic-petalinux)
+
 ## Zedboard Overview
 
 **Zynq-7000 All Programmable SoC**
