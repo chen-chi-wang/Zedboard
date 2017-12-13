@@ -1,4 +1,4 @@
-## Content
+## Table of Contents
 
 - [Zedboard Overview](#zedboard-overview)
 - [Lab 1.1 Platform Setup and Development Environment](#lab-11-platform-setup-and-development-environment)
